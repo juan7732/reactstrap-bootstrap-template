@@ -20,11 +20,11 @@ function App() {
             <ToastBody>
               <a
                 className="App-link"
-                href="https://reactjs.org"
+                href="https://github.com/juan7732/reactstrap-bootstrap-template"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                This is a toast! To learn React!
+                This is a toast! To Github!
               </a>
             </ToastBody>
           </Toast>
